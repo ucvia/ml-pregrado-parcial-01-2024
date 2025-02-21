@@ -1,4 +1,4 @@
-<div><center><img src="logo.png\" width=150"/> </center></div>
+<div><center><img src="ucvia-ii-2024.png\" width=150"/> </center></div>
 
 # 01 Parcial teórico 1
 
